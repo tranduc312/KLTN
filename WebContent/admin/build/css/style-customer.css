@@ -1,0 +1,47 @@
+
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 8px 10px;
+  font-size: 21px;
+  width: 160px;
+}
+.add{
+	padding:10px 16px;
+	font-size:17px;
+	line-height:1.3333333;
+	border-radius:6px
+	color:#fff;
+	background-color:#519839;
+	border-color:#519839;
+}
+.add:hover{
+	color:#fff;
+	background-color:#269abc;
+	border-color:#1b6d85;}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: black;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}

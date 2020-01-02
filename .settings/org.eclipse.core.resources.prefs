@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/admin/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login&register.jsp=UTF-8
+encoding//src/common/StringProcess.java=UTF-8
+encoding//src/controller/CustomerChangeMatKhau.java=UTF-8
+encoding//src/controller/CustomerListDonHang.java=UTF-8
+encoding//src/controller/LoginServlet.java=UTF-8
+encoding//src/controller/RegisterUser.java=UTF-8
+encoding//src/model/dao/DonHangDAO.java=UTF-8
+encoding//src/model/dao/GiaoHangDAO.java=UTF-8
+encoding//src/model/dao/LayHangDAO.java=UTF-8
+encoding//src/model/dao/ShopDAO.java=UTF-8
